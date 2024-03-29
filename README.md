@@ -1,4 +1,4 @@
-![logo](https://github.com/priyodip1027/priyodip1027/blob/main/github%20banner.png)
+![logo](https://github.com/priyodip1027/priyodip1027/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Priyodip Sanyal</h1>
 <h3 align="center">In a world of zeros and ones, I thrive.</h3>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
