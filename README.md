@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **RAG chatbots**
 
-- 🌱 I’m currently learning **Deep learning and neural networks**
+- 🌱 I’m currently learning **Agentic AI **
 
-- 📫 How to reach me **priyo1938@gmail.com**
+- 📫 How to reach me **priyodip1002@gmail.com**
 
 - ⚡ Fun fact **01000110 01010101 01001110 ->binary for fun**
 
